@@ -14,4 +14,4 @@
 | WiFi | Disabled |
 
 To build an image, you can try to follow these [instructions](https://wiki.archlinux.org/index.php/Banana_Pi) 
-Then replace some file you found here.
+Then replace some files you found here.
